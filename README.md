@@ -6,7 +6,8 @@
 </p>
 
 # ScreenShot
-![screenshot](https://github.com/D4Vinci/Cr3dOv3r/blob/master/Data/Email1.png)
+![Screenshot](https://user-images.githubusercontent.com/57313495/81037594-41867180-8e71-11ea-9c79-be3703eaff5e.png)
+
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
 * git clone https://github.com/khacker1024/K-OTP-X
