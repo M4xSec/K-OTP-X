@@ -6,7 +6,9 @@
 </p>
 
 # ScreenShot
-![Screenshot](https://user-images.githubusercontent.com/57313495/81037594-41867180-8e71-11ea-9c79-be3703eaff5e.png)
+
+![Screenshot](https://user-images.githubusercontent.com/57313495/81037731-ca9da880-8e71-11ea-96f0-674b7fe1d865.png)
+
 
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
