@@ -18,7 +18,7 @@ banner() {
   echo""    
   echo -e $'\e[1;33m\e[0m\e[1;34m    ██████████\e[0m'"\e[96m██████████"'\e[1;33m\e[0m\e[1;31m██████████\e[0m' '\e[1;31m\e[0m\e[1;31m OTP BYPASS SCRIPT {Pharming} \e[0m''\e[1;37m\e[0m\e[1;37m [v 1.0] \e[0m'                                       
   echo ""
-   echo -e $'        \e[1;33m\e[0m\e[1;33m {{-- \e[0m\e[1;32m Coded By :- Kamaldeep Singh \e[0m \e[1;32m\e[0m\e[1;33m--}} \e[0m'
+   echo -e $'        \e[1;33m\e[0m\e[1;33m {{-- \e[0m\e[1;32m Coded By :- predator0x300 \e[0m \e[1;32m\e[0m\e[1;33m--}} \e[0m'
    echo ""
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ >>>>\e[0m'
       echo -e "\e[31m    |A|D|V|A|N|C|E| |O||T||P| |B|Y|P|A|S|S|+|+| |1|.|0|"      
