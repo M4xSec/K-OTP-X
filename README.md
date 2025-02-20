@@ -2,7 +2,7 @@
   <b> Follow on Social Media Platforms </b>
 </p>
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=100039477441223"><img title="GitHub version" src="https://img.shields.io/badge/-Facebook-blue" ></a> 
+<a href="https://www.instagram.com/venexyyy"><img title="GitHub version" src="https://img.shields.io/badge/-Instagram-blue" ></a> 
 </p>
 
 # ScreenShot
