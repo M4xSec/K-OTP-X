@@ -1,53 +1,46 @@
 <p align="center">
-  <b> Follow on Social Media Platforms </b>
+  <h1 align="center">🔐 K-OTP-X</h1>
+  <p align="center">
+    <b>Advanced OTP Phishing Framework for Security Awareness & Education</b>
+  </p>
 </p>
+
 <p align="center">
-<a href="https://www.instagram.com/venexyyy"><img title="GitHub version" src="https://img.shields.io/badge/-Instagram-blue" ></a> 
+  <a href="https://www.instagram.com/venexyyy">
+    <img src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram">
+  </a>
+  <a href="https://github.com/M4xSec">
+    <img src="https://img.shields.io/badge/GitHub-M4xSec-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
-# ScreenShot
-![Screenshot](https://user-images.githubusercontent.com/57313495/81038008-9d052f00-8e72-11ea-87b0-68c88e8e563b.png)
+---
 
+## 📸 Screenshot
 
-# INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/predator0x300/K-OTP-X
-* cd K-OTP-X/
-* chmod 777 start.sh
-* ./start.sh
-* ./An-K-OTP-X.sh
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57313495/81038008-9d052f00-8e72-11ea-87b0-68c88e8e563b.png" width="700">
+</p>
 
-# INSTALLATION [ KALI ]
-* git clone https://github.com/predator0x300/K-OTP-X
-* cd K-OTP-X/
-* chmod 777 setup.sh
-* ./setup.sh
-* ./K-OTP-X.sh
+---
 
-# AVAILABLE TUNNELLING OPTIONS
-1. LOCALHOST
-2. NGROK (https://ngrok.com/)
-# TESTED ON FOLLOWING:-
-* Kali Linux - 2020.1a (version)
-* Parrot OS - Rolling Edition (version)
-* Ubuntu 
-* Arch Linux
-* Termux App
-# PREREQUISITES
-* sudo - [ MUST ]
-* php
-* apache2
-* ngrok Token
-# LANGUAGE 
-* Bash Script
+## 🚀 Features
 
+- OTP capture simulation for security testing  
+- Lightweight and fast Bash-based framework  
+- Works on **Android (Termux)** and **Linux distributions**  
+- Localhost & Ngrok tunneling support  
+- Simple installation & execution  
 
-# Contact For Contribute & Issues 
+---
 
-                                      EMAIL FOR ISSUES AND CONTRIBUTE : predator0x300@gmail.com
+## 📦 Installation
 
-# DISCLAIMER
-                                       TO BE USED FOR EDUCATIONAL PURPOSES ONLY
+### 📱 Termux (Android)
 
-The use of the K-OTP-X is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
-
-
+```bash
+git clone https://github.com/M4xSec/K-OTP-X
+cd K-OTP-X
+chmod +x start.sh
+./start.sh
+./An-K-OTP-X.sh
